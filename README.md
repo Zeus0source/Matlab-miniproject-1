@@ -51,6 +51,5 @@ The **Ticket Booking System** is a graphical user interface (GUI) application de
 - UI improvements with custom themes and responsive design.
 
 ## Contact
-- **Author:** [Your Name]
-- **Email:** [Your Email]
-- **GitHub:** [Your GitHub Profile]
+- **Author:** Yash Rastogi
+- **Email:** rastogiyash2006@gmail.com
